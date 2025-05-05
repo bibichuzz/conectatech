@@ -1,5 +1,14 @@
 # Conecta Tech
 
 A plataforma Conecta Tech foi criada com a finalidade de prestar serviços para a ONG Planeta Digital, que tem como missão levar a educação digital para comunidades carentes e alunos de escolas públicas, tornando a internet um lugar mais acessível para todos.
-\nPara alcançar o objetivo de democratizar este meio de comunicação, nosso sistema irá fornecer, de forma gratuita para a organização e seus usuários, cursos básicos relacionados à tecnologia da informação e informática, como programação em Python, lógica de programação, segurança digital e infraestrutura computacional, de maneira didática e interativa para manter os estudantes engajados.
-\nCom isso, é nosso dever garantir que todas as regulamentações da LGPD estão sendo seguidas por nosso sistema, utilizando os dados obtidos com ética e transparência, trazendo assim a melhor experiência para quem usufruir dos conteúdos de nossos cursos digitais. Alinhados com os valores da ONG, a plataforma deve seguir com os ideais de sustentabilidade, cidadania e direitos humanos sempre respeitados.
+
+Para alcançar o objetivo de democratizar este meio de comunicação, nosso sistema irá fornecer, de forma gratuita para a organização e seus usuários, cursos básicos relacionados à tecnologia da informação e informática, como programação em Python, lógica de programação, segurança digital e infraestrutura computacional, de maneira didática e interativa para manter os estudantes engajados.
+
+Com isso, é nosso dever garantir que todas as regulamentações da LGPD estão sendo seguidas por nosso sistema, utilizando os dados obtidos com ética e transparência, trazendo assim a melhor experiência para quem usufruir dos conteúdos de nossos cursos digitais. Alinhados com os valores da ONG, a plataforma deve seguir com os ideais de sustentabilidade, cidadania e direitos humanos sempre respeitados.
+
+# Funções do código
+- Gravar informações dos usuário no arquivo JSON;
+- Fazer cadastro de usuários, com consentimento de utilização de informações pessoais;
+- Fazer o log-in do usuário por meio de e-mail e senha criptografada no banco de dados;
+- Visualizar, atualizar e excluir informações;
+- Executar as provas de cada disciplina e visualizar notas.
