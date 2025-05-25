@@ -8,7 +8,7 @@ Com isso, é nosso dever garantir que todas as regulamentações da LGPD estão 
 
 A Conecta Tech oferece cursos gratuitos para a área de computação que vão do nível introdutório à intermediário. Os cursos ficarão disponíveis após você realizar o seu cadastro completo em nosso site. Cada curso contará com 4 módulos, cada um com 12 vídeos. O primeiro módulo estará totalmente disponível e o módulo seguinte será liberado após realizar uma prova sobre os conteúdos do módulo atual. Ao final de cada vídeo e módulo, haverá uma aba para feedbacks dos usuários, o que permite que saibamos quais pontos devemos melhorar.
 
-Para mais detalhes da implementação de nosso projeto, você pode ler nossa documentação completa [aqui](https://docs.google.com/document/d/1Gx1kytODt72N2_IfxDabzcyeDWYGhG4VgnDIx_snTsQ/edit?usp=sharing).
+Para mais detalhes da implementação de nosso projeto, você pode ler nossa documentação completa [aqui](https://docs.google.com/document/d/1yoektjB2rqA8HMA-MJsYbvdxEmaxjVgaZPD5WqNWBHM/edit?usp=sharing).
 
 # Funções do código
 - Gravar informações dos usuário no arquivo JSON;
